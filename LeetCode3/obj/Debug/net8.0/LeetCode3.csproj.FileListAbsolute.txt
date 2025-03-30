@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\bin\Debug\net8.0\LeetCode3.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\bin\Debug\net8.0\LeetCode3.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\bin\Debug\net8.0\LeetCode3.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\bin\Debug\net8.0\LeetCode3.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\bin\Debug\net8.0\LeetCode3.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\LeetCode3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\LeetCode3.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\LeetCode3.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\LeetCode3.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\LeetCode3.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\refint\LeetCode3.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\LeetCode3.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\LeetCode3.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw6 Assignments\LeetCode3\obj\Debug\net8.0\ref\LeetCode3.dll
